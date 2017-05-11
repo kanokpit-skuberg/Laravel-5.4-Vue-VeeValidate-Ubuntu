@@ -1,6 +1,6 @@
 Laravel 5.4 with Vue and Vee Validate (Ubuntu)
 ----------------------------------
-1.	Install Laravel on Terminal: composer create-project?—?prefer-dist laravel/laravel Laravee
+1.	Install Laravel on Terminal: composer create-project --prefer-dist laravel/laravel Laravee
 
 2.	cd Laravee
 
